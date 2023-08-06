@@ -23,4 +23,4 @@ Hi, my name is Stefan. I am a passionate DevOps Engineer from Sweden<br>🔭 I�
 ### 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=steff-petro&icon=0&color=11)](https://visitcount.itsvg.in) <br/>
 ![](https://github-contributor-stats.vercel.app/api?username=steff-petro&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=steff-petro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=steff-petro&theme=dark&hide_border=false)
