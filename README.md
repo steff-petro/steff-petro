@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ About Me:
-Hi, My name is Stefan. I am a passionate DevOps Engineer from Sweden<br>🔭 I’m currently working on Backstage.io<br>👯 I’m looking to collaborate on DevOps-related projects<br>🌱 I’m currently learning Azure and Kubernetes<br>💬 Ask me about Backstage<br>⚡ Fun fact: I played professional tennis and college tennis
+Hi, my name is Stefan. I am a passionate DevOps Engineer from Sweden<br>🔭 I’m currently working on Backstage.io<br>👯 I’m looking to collaborate on DevOps-related projects<br>🌱 I’m currently learning Azure and Kubernetes<br>💬 Ask me about Backstage<br>⚡ Fun fact: I played professional tennis and college tennis
 
 [![](https://visitcount.itsvg.in/api?id=steff-petro&icon=0&color=11)](https://visitcount.itsvg.in)
 
