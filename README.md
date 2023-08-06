@@ -19,7 +19,7 @@ Hi, my name is Stefan and I'm a passionate DevOps Engineer from Sweden. I am cur
 
 ### 🏆 2023 Goals: 
 - Earn the following certifications: AZ-900, AZ-104, AZ-400, CKA.
-- Learn the following technologies in-depth: Kubernetes, Terraform, Azure
+- Learn the following technologies in-depth: Kubernetes, Terraform, Azure, GitHub Actions
 - Contribute to more DevOps-related open-source projects
 
 ### 💻 Tech Stack:
