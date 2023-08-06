@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### ✨ About Me:
 Hi, my name is Stefan and I'm a passionate DevOps Engineer from Sweden. I am currently working for Cognizant as an Associate DevOps Engineer.<br><br>🔭 I’m currently working on [Backstage](https://github.com/backstage/backstage)<br>👯 I’m looking to collaborate on DevOps-related projects<br>🌱 I’m currently learning Azure <br> 💬 Ask me about Backstage<br>⚡ Fun fact: I played professional tennis and college tennis <br> 
 
-### 🏆 Goals for 2023: 
+### 🏆 2023 Goals: 
 - Earn the following certifications: AZ-900, AZ-104, AZ-400, CKA.
 - Learn the following technologies in-depth: Kubernetes, Terraform, Azure
 - Contribute to more DevOps-related open-source projects
