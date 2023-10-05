@@ -20,13 +20,13 @@ Hi, my name is Stefan and I'm a passionate DevOps Engineer from Sweden. I am cur
 ### 🏆 2023 Goals: 
 Earn the following certifications:
 - AZ-900✅
-- AZ-104
-- AZ-400
 - AWS Cloud Practitioner
+- AZ-104
 - Terraform Associate (003)
 
 ### 🏆 2024 Goals: 
 Earn the following certifications:
+- AZ-400
 - CKA
 - Linux IT Associate
 - GitOps Certified with ArgoCD
