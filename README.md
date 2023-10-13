@@ -31,6 +31,7 @@ Earn the following certifications:
 - AZ-400
 - CKA
 - GitOps Certified with ArgoCD
+- AWS SysOps Administrator
 - AWS DevOps Engineer
 - GCP Associate Cloud Engineer
 - RHCE
