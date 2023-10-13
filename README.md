@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi, my name is Stefan and I'm a passionate DevOps Engineer from Sweden. I am currently working for Cognizant as an Associate DevOps Engineer. My current project is for Volvo Cars where we are improving the developer experience for all of their developers.<br><br>🔭 I’m currently working on [Backstage](https://github.com/backstage/backstage)<br>👯 I’m looking to collaborate on DevOps-related projects<br>🌱 I’m currently learning Azure and AWS <br> 💬 Ask me about Backstage and tennis<br>⚡ Fun fact: I played professional tennis and college tennis <br>
 
 ### 📄 My Certifications:
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Azure Fundamentals (AZ-900)
 - AWS Cloud Practioner
 
 ### 🏆 2023 Goals: 
