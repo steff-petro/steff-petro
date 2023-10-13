@@ -20,7 +20,7 @@ Hi, my name is Stefan and I'm a passionate DevOps Engineer from Sweden. I am cur
 ### 🏆 2023 Goals: 
 Earn the following certifications:
 - AZ-900✅
-- AWS Cloud Practitioner
+- AWS Cloud Practitioner✅
 - AZ-104
 - Terraform Associate (003)
 
