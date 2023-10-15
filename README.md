@@ -31,6 +31,7 @@ Earn the following certifications:
 - AZ-104
 - Terraform Associate (003)
 - AZ-400
+- Linux Foundation Certified System Administrator (LFCS)
 - CKA
 - GitOps Certified with ArgoCD
 - AWS SysOps Administrator
