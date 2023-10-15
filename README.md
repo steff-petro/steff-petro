@@ -24,10 +24,10 @@ Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently worki
 ### 🏆 2023 Goals: 
 Earn the following certifications:
 - Source Control Management with Git (SC102)
-- Linux Foundation Certified IT Associate (LFCA)
 
 ### 🏆 2024 Goals: 
 Earn the following certifications:
+- Linux Foundation Certified IT Associate (LFCA)
 - AZ-104
 - Terraform Associate (003)
 - AZ-400
