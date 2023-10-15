@@ -23,7 +23,7 @@ Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently worki
 
 ### 🏆 2023 Goals: 
 Earn the following certifications:
-- SC102
+- Source Control Management with Git (SC102)
 
 ### 🏆 2024 Goals: 
 Earn the following certifications:
