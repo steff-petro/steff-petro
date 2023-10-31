@@ -21,10 +21,6 @@ Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently worki
 - Azure Fundamentals (AZ-900)
 - AWS Cloud Practioner
 
-### 🏆 2023 Goals: 
-Earn the following certifications:
-- Source Control Management with Git (SC102)
-
 ### 🏆 2024 Goals: 
 Earn the following certifications:
 - Linux Foundation Certified IT Associate (LFCA)
