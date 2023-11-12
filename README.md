@@ -25,15 +25,13 @@ Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently worki
 Earn the following certifications:
 - Linux Foundation Certified IT Associate (LFCA)
 - AZ-104
-- Terraform Associate (003)
 - AZ-400
-- Linux Foundation Certified System Administrator (LFCS)
+- Terraform Associate (003)
 - CKA
 - GitOps Certified with ArgoCD
 - AWS SysOps Administrator
 - AWS DevOps Engineer
 - GCP Associate Cloud Engineer
-- RHCE
 - PCA
 - LFCS
 
