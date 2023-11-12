@@ -31,7 +31,6 @@ Earn the following certifications:
 - GitOps Certified with ArgoCD
 - AWS SysOps Administrator
 - AWS DevOps Engineer
-- GCP Associate Cloud Engineer
 - PCA
 - LFCS
 
