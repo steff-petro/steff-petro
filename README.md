@@ -28,10 +28,10 @@ Earn the following certifications:
 - AZ-400
 - Terraform Associate (003)
 - CKA
-- GitOps Certified with ArgoCD
+- PCA
+- Certified Argo Project Associate (CAPA)
 - AWS SysOps Administrator
 - AWS DevOps Engineer
-- PCA
 - LFCS
 
 ### 💻 Tech Stack:
