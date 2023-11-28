@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ About Me:
-Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently working for Solidify as a DevOps Engineer
-🔭 I’m currently working on GitHub
-👯 I’m looking to collaborate on DevOps-related projects
-🌱 I’m currently learning Azure <br> 💬 Ask me about Backstage and tennis
-⚡ Fun fact: I played professional tennis and college tennis <br>
+Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently working for Solidify as a DevOps Engineer<br><br>
+
+🔭 I’m currently working on GitHub<br>
+👯 I’m looking to collaborate on DevOps-related projects<br>
+🌱 I’m currently learning Azure <br> 💬 Ask me about Backstage and tennis<br>
+⚡ Fun fact: I played professional tennis and college tennis<br>
 
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
