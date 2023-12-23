@@ -28,11 +28,11 @@ Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently worki
 
 ### 🏆 2024 Goals: 
 Earn the following certifications:
-- Linux Foundation Certified IT Associate (LFCA)
 - AZ-104
 - AZ-400
 - Terraform Associate (003)
 - CKA
+- Linux Foundation Certified IT Associate (LFCA)
 - PCA
 - Certified Argo Project Associate (CAPA)
 - AWS SysOps Administrator
