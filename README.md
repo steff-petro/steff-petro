@@ -34,9 +34,11 @@ Earn the following certifications:
 - CKA
 - Linux Foundation Certified IT Associate (LFCA)
 - PCA
+- AZ-305
 - Certified Argo Project Associate (CAPA)
 - AWS SysOps Administrator
 - AWS DevOps Engineer
+- AWS Solutions Architect
 - LFCS
 
 ### 💻 Tech Stack:
