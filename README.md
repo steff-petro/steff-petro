@@ -31,8 +31,8 @@ Earn the following certifications:
 - AZ-104
 - AZ-400
 - Terraform Associate (003)
-- CKA
 - Linux Foundation Certified IT Associate (LFCA)
+- CKA
 - PCA
 - AZ-305
 - Certified Argo Project Associate (CAPA)
