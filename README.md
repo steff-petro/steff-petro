@@ -26,6 +26,7 @@ Hi, my name is Stefan and I'm a DevOps Engineer from Sweden. I'm currently worki
 - Azure Fundamentals (AZ-900)
 - AWS Cloud Practioner
 - GitHub Actions Certification
+- GitHub Advanced Security Certification
 
 ### 🏆 2024 Goals: 
 Earn the following certifications:
