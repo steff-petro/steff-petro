@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 ### ✨ About Me:
 Hi, my name is Stefan and I'm a Solutions Architect from Sweden. I'm currently working for Solidify as a Solutions Architect<br><br>
 
-🔭 I’m currently working on GitHub<br>
-👯 I’m looking to collaborate on DevOps-related projects<br>
-🌱 I’m currently learning Azure <br> 💬 Ask me about Backstage and tennis<br>
-⚡ Fun fact: I played professional tennis and college tennis<br>
-
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
 - AWS Cloud Practioner
