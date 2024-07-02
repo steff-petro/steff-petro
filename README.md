@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ About Me:
-Hi, my name is Stefan and I'm a Solutions Architect from Sweden. I'm currently working for Solidify as a Solutions Architect<br><br>
+Hi, my name is Stefan and I'm a Cybersecurity Specialist from Sweden. I'm currently working for Solidify<br><br>
 
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
