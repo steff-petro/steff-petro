@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ About Me:
-Hi, my name is Stefan and I'm a Cybersecurity Engineer from Sweden, living in Madrid, Spain. I'm currently working for Solidify<br><br>
+Hi, my name is Stefan and I'm a Solutions Architect from Sweden, living in Madrid, Spain. I'm currently working for Solidify<br><br>
 
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
