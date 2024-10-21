@@ -20,6 +20,7 @@ Hi, my name is Stefan and I'm a Cybersecurity Engineer from Sweden, living in Ma
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
 - AWS Cloud Practioner
+- GitHub Fundamentals Certification
 - GitHub Actions Certification
 - GitHub Advanced Security Certification
 - GitHub Administrator Certification
