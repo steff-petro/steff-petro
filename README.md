@@ -24,4 +24,5 @@ Hi, my name is Stefan and I'm a Cybersecurity Engineer from Sweden, living in Ma
 - GitHub Actions Certification
 - GitHub Advanced Security Certification
 - GitHub Administrator Certification
+- GitHub Copilot Certification
 - ISC2 Certified in Cybersecurity (CC)
