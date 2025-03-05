@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ About Me:
-Hi, my name is Stefan and I'm a DevSecOps Engineer from Sweden, living in Madrid, Spain. I'm currently working for Solidify<br><br>
+Hi, my name is Stefan and I'm an Engineer from Sweden, living in Madrid, Spain. I'm currently working for Solidify as a DevSecOps Engineer<br><br>
 
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
@@ -26,3 +26,8 @@ Hi, my name is Stefan and I'm a DevSecOps Engineer from Sweden, living in Madrid
 - GitHub Administrator Certification
 - GitHub Copilot Certification
 - ISC2 Certified in Cybersecurity (CC)
+
+### 📖 Open Source Contributor
+
+- [GHAS Seat Projection](https://github.com/advanced-security/ghas-seat-projection) (maintainer)
+- [Backstage](https://github.com/backstage/backstage)
