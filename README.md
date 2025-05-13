@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### ✨ About Me:
-Hi, my name is Stefan and I'm an Engineer from Sweden, living in Madrid, Spain. I'm currently working for Solidify as a DevSecOps Engineer<br><br>
+Hi, my name is Stefan and I'm an Engineer from Sweden, living in Madrid, Spain. I'm currently working for Oracle as a Senior Site Reliability Engineer<br><br>
 
 ### 📄 My Certifications:
 - Azure Fundamentals (AZ-900)
