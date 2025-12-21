@@ -26,9 +26,9 @@ Hi, my name is Stefan and I'm an Engineer from Sweden, living in Madrid, Spain. 
 - GitHub Administrator Certification
 - GitHub Copilot Certification
 - ISC2 Certified in Cybersecurity (CC)
-- OCI Observability Professional
-- OCI Foundations Associate
-- OCI AI Foundations Associate
+- OCI Certified Observability Professional
+- OCI Certified Foundations Associate
+- OCI Certified AI Foundations Associate
 
 ### 📖 Open Source Contributor
 
